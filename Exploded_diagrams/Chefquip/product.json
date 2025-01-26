@@ -1,0 +1,1617 @@
+[
+    {
+    "url": "https://www.partstown.co.uk/chefquip/chesp500bl",
+    "manufacturer_part_number": "SP-500BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-500",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "104",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "5 Litre bowl - MPN SP-500 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp500wh",
+    "manufacturer_part_number": "SP-500WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-500",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "80",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Whisk - MPN SP-500WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp500fb",
+    "manufacturer_part_number": "SP-500FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-500",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "60",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Beater - MPN SP-500WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp500hk",
+    "manufacturer_part_number": "SP-500HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-500",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "60",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral Dough Hook - MPN SP-500HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp800bl",
+    "manufacturer_part_number": "SP-800BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-800",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "117",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "7.5 Litre bowl - MPN SP-800BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp800wh",
+    "manufacturer_part_number": "SP-800WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-800",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "81",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Whisk - MPN SP-800WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp800fb",
+    "manufacturer_part_number": "SP-800FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-800",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "65",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Beater - MPN SP-800fb ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp800hk",
+    "manufacturer_part_number": "SP-800HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-800",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "65",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral dough hook - MPN SP-800HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp100bl",
+    "manufacturer_part_number": "SP-100BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-100HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "218",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "10 Litre bowl - MPN SP-100BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp100wh",
+    "manufacturer_part_number": "SP-100WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-100HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "170",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Whisk - MPN SP-100WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp100fb",
+    "manufacturer_part_number": "SP-100FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-100HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "123",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Beater - MPN SP-100FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp100hk",
+    "manufacturer_part_number": "SP-100HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-100HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "123",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral dough hook - MPN SP-100HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp100ls",
+    "manufacturer_part_number": "SP-100LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-100HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Lockable security switch - MPN SP-100HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+} ,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp100ls",
+    "manufacturer_part_number": "SP-100LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-100HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Lockable security switch - MPN SP-100HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp100stand",
+    "manufacturer_part_number": "SP-100STAND",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-100HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "410",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Mixer Stand - MPN SP-100STAND ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp200bl",
+    "manufacturer_part_number": "SP-200BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "244",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "20 Litre bowl - MPN SP-200BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp200wh",
+    "manufacturer_part_number": "SP-200WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "202",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Whisk - MPN SP-200WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp200fb",
+    "manufacturer_part_number": "SP-200FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "160",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Beater - MPN SP-200FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp200hk",
+    "manufacturer_part_number": "SP-200HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "160",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Spiral dough hook - MPN SP-200FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp200stand",
+    "manufacturer_part_number": "SP-200STAND",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "160",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Mixer Stand - MPN SP-200STAND ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp20-10",
+    "manufacturer_part_number": "SP-20/10",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "646",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " 1/2 size attachments - MPN SP-20/10 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp20ls",
+    "manufacturer_part_number": "SP-20LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Lockable security switch - MPN SP-20LS ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp200scrp",
+    "manufacturer_part_number": "SP-200SCRP",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-200HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "313",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Bowl Scraper - MPN SP-200SCRP ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22bl",
+    "manufacturer_part_number": "SP-22BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "276",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " 22 Litre bowl - MPN SP-200SCRP ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22bl",
+    "manufacturer_part_number": "SP-22BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "276",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " 22 Litre bowl - MPN SP-22BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22wh",
+    "manufacturer_part_number": "SP-22WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "234",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Whisk - MPN SP-22WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22fb",
+    "manufacturer_part_number": "SP-22FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "185",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Beater - MPN SP-22FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22hk",
+    "manufacturer_part_number": "SP-22HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "185",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": " Spiral dough hook - MPN SP-22HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22stand",
+    "manufacturer_part_number": "SP-22STAND",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "410",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Mixer Stand - MPN SP-22STAND ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22-10",
+    "manufacturer_part_number": "SP-22/10",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "960",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "1/2 size attachments - MPN SP-22/10 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22ls",
+    "manufacturer_part_number": "SP-22LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Lockable security switch - MPN SP-22LS ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22scrp",
+    "manufacturer_part_number": "SP-22SCRP",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-22HA, SP-22HA-D",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "408",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl Scraper - MPN SP-22SCRP ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp22sp30bl",
+    "manufacturer_part_number": "SP-30BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "446",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "30 Litre bowl - MPN SP-30BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30bl",
+    "manufacturer_part_number": "SP-30BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "446",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "30 Litre bowl - MPN SP-30BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30wh",
+    "manufacturer_part_number": "SP-30WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "276",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Whisk - MPN SP-30WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30fb",
+    "manufacturer_part_number": "SP-30FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "222",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Beater - MPN SP-30FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30hk",
+    "manufacturer_part_number": "SP-30HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "222",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral Dough Hook - MPN SP-30HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30hk",
+    "manufacturer_part_number": "SP-30HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "222",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral Dough Hook - MPN SP-30HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30bt",
+    "manufacturer_part_number": "SP-30BT",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "192",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl Trolley - MPN SP-30BT ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30bt",
+    "manufacturer_part_number": "SP-30BT",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "192",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl Trolley - MPN SP-30BT ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30-20",
+    "manufacturer_part_number": "SP-30/20",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "1128",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "1/2 size attachments - MPN SP-30/20 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30ls",
+    "manufacturer_part_number": "SP-30LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "114",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Lockable security switch - MPN SP-30LS ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp30scrp",
+    "manufacturer_part_number": "SP-30SCRP",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-30HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "567",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl Scraper - MPN SP-30SCRP ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40bl",
+    "manufacturer_part_number": "SP-40BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "520",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "40 Litre Bowl - MPN SP-40BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+
+,
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40wh",
+    "manufacturer_part_number": "SP-40WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "297",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Whisk - MPN SP-40WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40fb",
+    "manufacturer_part_number": "SP-40FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "255",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Beater - MPN SP-40FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40hk",
+    "manufacturer_part_number": "SP-40HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "255",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral dough hook - MPN SP-40hk ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40bt",
+    "manufacturer_part_number": "SP-40BT",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "192",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl trolley - MPN SP-40hk ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40-20",
+    "manufacturer_part_number": "SP40/20",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "1581",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "1/2 size attachments - MPN SP40/20 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40ls",
+    "manufacturer_part_number": "SP40LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Lockable security switch - MPN SP40/20 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp40scrp",
+    "manufacturer_part_number": "SP40SCRP",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-40HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "658",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl Scraper - MPN SP40SCRP ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60bl",
+    "manufacturer_part_number": "SP-60BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "584",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "9kg",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "60 Litre bowl - MPN SP-60BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60wh",
+    "manufacturer_part_number": "SP-60WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "381",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Whisk - MPN SP-60WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60fb",
+    "manufacturer_part_number": "SP-60FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "308",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "1.6kg",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Beater - MPN SP-60FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60hk",
+    "manufacturer_part_number": "SP-60HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "308",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "5kg",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral dough hook - MPN SP-60HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60bt",
+    "manufacturer_part_number": "SP-60BT",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "192",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl trolley - MPN SP-60BT ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60-30",
+    "manufacturer_part_number": "SP60/30",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "1613",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "1/2 size attachments - MPN SP-60/30 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60ls",
+    "manufacturer_part_number": "SP60LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Lockable security switch - MPN SP60LS ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp60scrp",
+    "manufacturer_part_number": "SP60SCRP",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-60HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl Scraper - MPN SP60SCRP ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp80bl",
+    "manufacturer_part_number": "SP-80BL",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "796",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "9kg",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "60 Litre bowl - MPN SP-80BL ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp80wh",
+    "manufacturer_part_number": "SP-80WH",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "478",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Whisk - MPN SP-80WH ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp80fb",
+    "manufacturer_part_number": "SP-80FB",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "414",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Beater - MPN SP-80FB ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp80hk",
+    "manufacturer_part_number": "SP-80HK",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "414",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Spiral dough hook - MPN SP-80HK ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp80bt",
+    "manufacturer_part_number": "SP-80BT",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "277",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl trolley - MPN SP-80BT ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp90-40",
+    "manufacturer_part_number": "SP80/40",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "1815",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "1/2 size attachments - MPN SP80/40 ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp80ls",
+    "manufacturer_part_number": "SP80LS",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "144",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Lockable security switch - MPN SP80LS ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+},
+
+{
+    "url": "https://www.partstown.co.uk/chefquip/chesp80scrp",
+    "manufacturer_part_number": "SP80SCRP",
+    "manufacturer": "ChefQuip",
+    "part_category": "Accessories",
+    "sku": null,
+    "model_details": "SP-80HA",
+    "categories": "Food Preparation Equipment Parts > Mixer",
+    "price": "770",
+    "stock": "0",
+    "superseded": false,
+    "superseded_text": "",
+    "volumetrics": {
+        "weight": "",
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "title": "Bowl Scraper - MPN SP80SCRP ChefQuip",
+    "obsolete": false,
+    "obsolete_text": "",
+    "scrape_date": "2024-11-21T10:05:36.266276"
+}
+]
